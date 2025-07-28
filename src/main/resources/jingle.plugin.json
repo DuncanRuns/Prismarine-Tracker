@@ -1,0 +1,6 @@
+{
+  "name": "Jingle Example Plugin",
+  "id": "jingle-example-plugin",
+  "version": "${version}",
+  "initializer": "xyz.duncanruns.jingle.exampleplugin.ExamplePlugin::initialize"
+}
