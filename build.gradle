@@ -29,7 +29,7 @@ configurations.configureEach {
 
 dependencies {
     // Choose Jingle version: https://jitpack.io/#DuncanRuns/Jingle/
-    implementation 'com.github.DuncanRuns:Jingle:main-SNAPSHOT'
+    implementation 'com.github.DuncanRuns:Jingle:v1.2.2'
 }
 
 
